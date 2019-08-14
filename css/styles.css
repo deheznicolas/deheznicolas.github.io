@@ -47,12 +47,14 @@ main > .intro {
 	font-family: 'Reem Kufi', sans-serif;
 	font-size: 3.75em;
 	font-weight: 600;
+	color: white;
 }
 
 main > .tagline {
-	font-size: 1.5rem;
-	margin: 1.5rem 0;
+	font-size: 1.5rem;;
 	font-weight: 100;
+	color: white;
+	text-shadow: 0 0 2px #fff, 0 0 10px #fff, 0 0 10px #ff0080, 0 0 20px #ff0080, 0 0 30px #ff0080, 0 0 45px #ff0080, 0 0 75px #ff0080;
 }
 
 .icons-social i {
